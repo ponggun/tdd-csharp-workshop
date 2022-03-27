@@ -17,3 +17,12 @@ dotnet test
 
 ## Workshop Home & Other Langauges Templates
 - <https://github.com/dotnetthailand/kata-workshop>
+
+## Ponggun's Detail
+### 1st attemp, implement the TDD without studying TDD from My's video
+- Video: ..
+- Detail: ..
+
+### 2nd attemp, implement the TDD after studying TDD from My's video
+- Video: ..
+- Detail: ..
