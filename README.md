@@ -20,9 +20,7 @@ dotnet test
 
 ## Ponggun's Detail
 ### 1st attemp, implement the TDD without studying TDD from My's video
-- Video: ..
-- Detail: ..
+- Video: https://www.loom.com/share/d15f26b614434532aa1d57d321726e86
 
 ### 2nd attemp, implement the TDD after studying TDD from My's video
 - Video: ..
-- Detail: ..
